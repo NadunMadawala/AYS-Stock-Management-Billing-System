@@ -9,7 +9,7 @@
             <div class="card-body p-4">
                 <form method="POST" action="{{ route('register') }}">
                     @csrf
-                    <h1>{{ __('register') }}</h1>
+                    <h1>{{ __('Register') }}</h1>
                     <p class="text-muted">Create account</p>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">

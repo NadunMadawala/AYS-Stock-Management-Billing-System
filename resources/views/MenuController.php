@@ -1,5 +1,5 @@
 <?php
-//menucontroller
+//Menucontroller
 
 namespace App\Http\Controllers;
 

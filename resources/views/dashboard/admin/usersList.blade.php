@@ -23,7 +23,7 @@
                                         <th>Username</th>
                                         <th>E-mail</th>
                                         <th>Roles</th>
-                                        <th>Email verified at</th>
+                                        <th>Email verified </th>
                                         <th></th>
                                         <th></th>
                                         <th></th>
@@ -70,3 +70,4 @@
 @section('javascript')
 
 @endsection
+#

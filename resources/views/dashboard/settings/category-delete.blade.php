@@ -9,7 +9,7 @@
             <div class="col-sm-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4>category List</h4>
+                        <h4>Category List</h4>
                     </div>
                     <div class="card-body">
                         @if (Session::has('error'))

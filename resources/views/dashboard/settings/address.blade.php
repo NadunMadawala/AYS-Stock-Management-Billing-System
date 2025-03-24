@@ -23,7 +23,7 @@
                               <th>ADD Line - 3</th>
                               <th>ADD Line - 4</th>
                               <th>ADD Line - 5</th>
-                              <th>Edit</th>
+                              <th>edit</th>
                               <th>Delete</th>
                               <th>Print Envelope</th>
 
