@@ -8,7 +8,7 @@
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3">
                 <div class="card">
                     <div class="card-header">
-                      <i class="fa fa-align-justify"></i> {{ __('Edit') }} {{ $user->name }}</div>
+                      <i class="fa fa-align-justify"></i> {{ __('edit') }} {{ $user->name }}</div>
                     <div class="card-body">
                         <br>
                         <form method="POST" action="/users/{{ $user->id }}">

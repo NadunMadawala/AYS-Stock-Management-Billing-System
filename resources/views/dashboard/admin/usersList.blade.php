@@ -8,11 +8,11 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="card">
                         <div class="card-header">
-                            <i class="fa fa-align-justify"></i>{{ __('Users') }}
+                            <i class="fa fa-align-justify"></i>{{ __('users') }}
                             <div style="text-align: right">
     
                                     <a href="{{ route('user-register') }}"
-                                        class="btn btn-primary active mt-3">{{ __('Register') }}</a>
+                                        class="btn btn-primary active mt-3">{{ __('register') }}</a>
 
                             </div>
                         </div>
