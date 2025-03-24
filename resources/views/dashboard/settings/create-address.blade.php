@@ -11,7 +11,7 @@
           <div class="card-header"><h4>Create New Address</h4></div>
             <div class="card-body">
                 @if(Session::has('message'))
-                    <div class="alert alert-success" role="alert">{{ Session::get('message') }}</div>
+                    <div class="alert alert-success" role="alert">{{ Session::get('Message') }}</div>
                 @endif
                 <form method="POST" action="{{ route('address.store') }}">
                     @csrf

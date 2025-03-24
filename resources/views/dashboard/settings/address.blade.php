@@ -9,7 +9,7 @@
             <div class="card-header"><h4>Ministry Address List</h4></div>
               <div class="card-body">
                 @if(Session::has('message'))
-                <div class="alert alert-success" role="alert">{{ Session::get('message') }}</div>
+                <div class="alert alert-success" role="alert">{{ Session::get('Message') }}</div>
             @endif
                       <a class="btn btn-lg btn-primary" style="float: right;" href="{{ route('address.create') }}">Add New Address</a>
 

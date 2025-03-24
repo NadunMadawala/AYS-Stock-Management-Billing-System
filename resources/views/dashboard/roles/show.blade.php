@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="card">
-          <div class="card-header"><h4>Menu roles</h4></div>
+          <div class="card-header"><h4>Menu Roles</h4></div>
             <div class="card-body">
                 <table class="table table-striped table-bordered datatable">
                     <thead>
