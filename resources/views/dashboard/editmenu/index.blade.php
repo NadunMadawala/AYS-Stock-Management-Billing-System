@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="card">
-          <div class="card-header"><h4>Menu Elements</h4></div>
+          <div class="card-header"><h4>menu Elements</h4></div>
             <div class="card-body">
                 <div class="row mb-3 ml-3">
                     <a class="btn btn-lg btn-primary" href="{{ route('menu.create') }}">Add new menu element</a>
